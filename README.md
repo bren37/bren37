@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Brendan 👋
 
+<h2>👨‍💻 My Software Development Projects:</h2>
+
+- <b>Human Computer Interaction</b>
+  - [AR PhysioLab](https://github.com/wyvernk/UnityProject)
+- <b>Mobile Development</b>
+  - [PDBuddy App](https://github.com/eightus/ITP-Peritoneal-Dialysis)
+- <b>Web Development</b>
+  - [PD Clinician Webportal](https://github.com/eightus/ITP2-Peritoneal-Dialysis)
 <!--
 **bren37/bren37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
